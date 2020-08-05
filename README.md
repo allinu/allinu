@@ -9,7 +9,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Liona | Github" width="22px" src=" https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
+[<img align="left" alt="Liona | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
 
 [<img align="left" alt="Liona | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
