@@ -71,11 +71,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Linux 操作系统的安装](https://www.youtube.com/watch?v=h0rwgAqlOys)
-- [Linux 虚拟机软件的安装](https://www.youtube.com/watch?v=kpWI-RSn-iM)
-- [Linux 概述](https://www.youtube.com/watch?v=YskCgXgu578)
-- [【网络安全】 网络基础](https://www.youtube.com/watch?v=wCYnzBdDfKw)
-- [【网络安全】 概述](https://www.youtube.com/watch?v=j3VGUNcwLZ4)
+- [Linux SSH配置](https://www.youtube.com/watch?v=3teN40xe8Lc)
+- [Linux 安装CentOS](https://www.youtube.com/watch?v=duOlCaLglUQ)
+- [Linux 配置源及更新](https://www.youtube.com/watch?v=cqNhvVPeuNU)
+- [Linux 基础命令](https://www.youtube.com/watch?v=2r3ea5IEzG8)
+- [Linux 背景知识介绍](https://www.youtube.com/watch?v=bzkJUP5jZQo)
 <!-- YOUTUBE:END -->
 
 ---
