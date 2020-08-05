@@ -71,6 +71,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Linux 操作系统的安装](https://www.youtube.com/watch?v=h0rwgAqlOys)
+- [Linux 虚拟机软件的安装](https://www.youtube.com/watch?v=kpWI-RSn-iM)
+- [Linux 概述](https://www.youtube.com/watch?v=YskCgXgu578)
+- [【网络安全】 网络基础](https://www.youtube.com/watch?v=wCYnzBdDfKw)
+- [【网络安全】 概述](https://www.youtube.com/watch?v=j3VGUNcwLZ4)
 <!-- YOUTUBE:END -->
 
 ---
