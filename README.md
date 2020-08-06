@@ -1,10 +1,10 @@
-# Hi there, I'm Liona [Liona][website] 👋
+# Hi there, I'm [Liona][website] 👋
 
 ## I'm a Developer and a Video Maker!
 <!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m making some videos about ROS and Network
-- 🥅 2020 Goals: Contribute more to Open Source projects and make more videos
+- 🥅 2020 Goals: Introduce more to Open Source projects and make more videos
 - ⚡ Fun fact: I love to draw and stay alone
 
 ## Connect with me:
