@@ -1,7 +1,7 @@
-# Hi there, I'm [Liona][website] 👋
+# {🌼} Hi there, I'm [Liona][website] 👋
 
 ## I'm a Developer and a Video Maker!
-<!-- - 🔭 I’m currently working on a [VS Code Course][website]! -->
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m making some videos about ROS and Network
 - 🥅 2020 Goals: Introduce more to Open Source projects and make more videos
@@ -63,7 +63,6 @@
 <img align="left" alt="code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pycharm.svg" />
 
 
-
 <br />
 <br />
 
@@ -71,11 +70,6 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Linux SSH配置](https://www.youtube.com/watch?v=3teN40xe8Lc)
-- [Linux 安装CentOS](https://www.youtube.com/watch?v=duOlCaLglUQ)
-- [Linux 配置源及更新](https://www.youtube.com/watch?v=cqNhvVPeuNU)
-- [Linux 基础命令](https://www.youtube.com/watch?v=2r3ea5IEzG8)
-- [Linux 背景知识介绍](https://www.youtube.com/watch?v=bzkJUP5jZQo)
 <!-- YOUTUBE:END -->
 
 ---
