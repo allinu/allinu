@@ -70,6 +70,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Linux SSH配置](https://www.youtube.com/watch?v=3teN40xe8Lc)
+- [Linux 安装CentOS](https://www.youtube.com/watch?v=duOlCaLglUQ)
+- [Linux 配置源及更新](https://www.youtube.com/watch?v=cqNhvVPeuNU)
+- [Linux 基础命令](https://www.youtube.com/watch?v=2r3ea5IEzG8)
+- [Linux 背景知识介绍](https://www.youtube.com/watch?v=bzkJUP5jZQo)
 <!-- YOUTUBE:END -->
 
 ---
