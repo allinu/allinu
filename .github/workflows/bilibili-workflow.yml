@@ -1,0 +1,17 @@
+name: Latest Bilibili Videos
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest videos from Bilibili
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: allinu/bilibili-video-list-workflow@master
+        with:
+          uid: "226944104"
+          count: "6"
