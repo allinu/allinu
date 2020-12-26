@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m making some videos about ROS and Network
-- 🥅 2020 Goals: Introduce more to Open Source projects and make more videos
+- 🥅 2020 Goals: Introduce more to open source projects and make more videos
 - ⚡ Fun fact: I love to draw and stay alone
 
 ## Connect with me:
