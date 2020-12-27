@@ -104,6 +104,6 @@
 
 <img align="left" alt="allinu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=allinu&show_icons=true&hide_border=true" />
 
-[website]: https://github.com/allinu
+[website]: https://allinu.github.io/
 [youtube]: https://www.youtube.com/channel/UCVqJ1lGsvQiaOgLr_BRHSIA
 [bilibili]: https://space.bilibili.com/226944104
