@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m making some videos about ROS and Network
-- 🥅 2020 Goals: Introduce more to open source projects and make more videos
+- 🥅 2021 Goals: Make more videos and learn nodejs,vue,python
 - ⚡ Fun fact: I love to draw and stay alone
 
 ## Connect with me:
