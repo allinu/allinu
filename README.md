@@ -37,8 +37,6 @@
 <img align="left" alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg" />
 <img align="left" alt="css" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/css3.svg" />
 <img align="left" alt="js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg" />
-<img align="left" alt="node" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/node-dot-js.svg" />
-<img align="left" alt="npm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/npm.svg" />
 
 <br />
 
