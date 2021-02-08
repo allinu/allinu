@@ -7,18 +7,6 @@
 - 🥅 2021 Goals: Make more videos and learn nodejs,vue,python
 - ⚡ Fun fact: I love to coding and stay alone
 
-## Good Repos
-
-[<img align="left" alt="allinu's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=allinu&repo=Video_Maker&hide_border=true" />](https://allinu.github.io/Video_Maker/)
-
-[<img align="left" alt="allinu's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=allinu&repo=allinu.github.io&hide_border=true" />](https://allinu.github.io/home)
-
-
-<br />
-<br />
-<br />
-
-
 ## Connect with me:
 
 [<img align="left" alt="Liona | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
