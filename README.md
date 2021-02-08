@@ -13,7 +13,6 @@
 
 [<img align="left" alt="allinu's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=allinu&repo=allinu.github.io&hide_border=true" />](https://allinu.github.io/home)
 
----
 
 <br />
 <br />
