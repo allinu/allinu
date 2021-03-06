@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m making some videos about ROS and Network
-- 🥅 2021 Goals: Make more videos and learn nodejs,vue,python
+- 🥅 2021 Goals: Learn nodejs,vue,python
 - ⚡ Fun fact: I love to coding and stay alone
 
 ## Connect with me:
