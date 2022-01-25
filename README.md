@@ -1,22 +1,5 @@
-# {🌼} Hi there, I'm [Liona][website] 👋
+# {🌼} Hi there, I'm [Liona](https://liona.fun) 👋
 
-## I'm a Developer and a Video Maker!
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m making some videos about ROS and Network
-- 🥅 2021 Goals: Learn nodejs,vue,python
-- ⚡ Fun fact: I love to coding and stay alone
-
-## Connect with me:
-
-[<img align="left" alt="Liona | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][website]
-
-
-[<img align="left" alt="Liona | Bilibili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/bilibili.svg" />][bilibili]
-
-<br />
-
-## Skills & Tools
 
 ### `Platform`
 
@@ -62,40 +45,6 @@
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Linux SSH配置](https://www.youtube.com/watch?v=3teN40xe8Lc)
-- [Linux 安装CentOS](https://www.youtube.com/watch?v=duOlCaLglUQ)
-- [Linux 配置源及更新](https://www.youtube.com/watch?v=cqNhvVPeuNU)
-- [Linux 基础命令](https://www.youtube.com/watch?v=2r3ea5IEzG8)
-- [Linux 背景知识介绍](https://www.youtube.com/watch?v=bzkJUP5jZQo)
-<!-- YOUTUBE:END -->
-
----
-
-### 📺 Latest Bilibili Videos
-<!-- BILIBILI:START -->
-- [Linux - 基础命令](https://www.bilibili.com/video/BV1xA411Y7dT)
-- [Linux - 配置源及更新](https://www.bilibili.com/video/BV1ch411d7fP)
-- [Linux - 背景知识介绍](https://www.bilibili.com/video/BV1f54y1v77s)
-- [Linux - SSH 配置](https://www.bilibili.com/video/BV1xC4y1b7uh)
-- [Linux - 安装CentOS](https://www.bilibili.com/video/BV1ZD4y1m7jb)
-- [Linux - 操作系统的安装](https://www.bilibili.com/video/BV1iK411J7fb)
-- [Linux-虚拟机软件的安装](https://www.bilibili.com/video/BV1Zp4y1i7xo)
-- [Linux-概述](https://www.bilibili.com/video/BV1a54y1q7fh)
-- [【网络、安全】系列视频 - 网络协议](https://www.bilibili.com/video/BV1DZ4y1u7ti)
-- [【安全警示】Github安全-你的仓库安全么？](https://www.bilibili.com/video/BV1Vt4y1X7NF)
-- [【网络、安全】系列视频 - 网络基础](https://www.bilibili.com/video/BV1n5411a7fJ)
-- [【网络、安全】系列视频-概述](https://www.bilibili.com/video/BV1i54y1v7WQ)
-- [【颜值至上】打造个性 B 站](https://www.bilibili.com/video/BV1ff4y1m7CY)
-- [【黑科技】- 【AI主持人】如何在Windows上愉快的搭建开发环境](https://www.bilibili.com/video/BV1Mz41187rF)
-- [ 👁 查看更多](https://space.bilibili.com/226944104)
-<!-- BILIBILI:END -->
-
----
 <br />
 
 <img align="left" alt="allinu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=allinu&show_icons=true&hide_border=true" />
@@ -104,7 +53,3 @@
 
 <img align="left" alt="allinu's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allinu&hide_border=true&layout=compact" />
 
-
-
-[website]: https://allinu.github.io/
-[bilibili]: https://space.bilibili.com/226944104
