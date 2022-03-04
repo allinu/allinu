@@ -1,51 +1,37 @@
-# {🌼} Hi there, I'm [Liona](https://liona.fun) 👋
+# {🌼} 哈喽，大家好， 这里是[Liona](https://notion.allinu.vercel.app) 👋
 
+👨‍💻 现在干的事情:
 
-### `Platform`
+    - 找工作实习
+    - 学习渗透测试的流程
+    - 各种漏洞复现和分析
 
-<img align="left" alt="linux" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linux.svg" />
-<img align="left" alt="Mac" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/apple.svg" />
-<img align="left" alt="windows" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/windows.svg" />
+💚 感兴趣的:
 
-<br />
+    - 网络安全技术
+    - 想成为一名技术宅
+    - 科技产品
 
+📚 博客：
 
-### `Languages`
+    [Allinu's SpaceX](https://notion.allinu.vercel.app/)
 
-<img align="left" alt="markdown" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/markdown.svg" />
-<img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/python.svg" />
-<img align="left" alt="docker" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />
-<img align="left" alt="html" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg" />
-<img align="left" alt="css" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/css3.svg" />
-<img align="left" alt="js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg" />
+🌻 技能：
 
+    - Python： 写过一些项目，不是理解很深刻，但是能用
+    - Docker： 能够写 Dockerfile 以及部署
+    - Kali Linux： 可以进行信息收集、渗透测试、漏洞利用等
+    - JS、PHP、Go、Java： 能够理解一些基本的逻辑和功能
+    - HTML/CSS/JS： 半吊子，能写一写网页，谈不上专业
 
-<br />
+🍑 自己喜欢的话：
 
-### `Picture`
+    - 100 次跌倒，101 次爬起来
+    - 向前、向前、一直向前
 
-<img align="left" alt="ps" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/adobephotoshop.svg" />
+<details>
+<summary>代码统计信息</summary>
 
-<br />
-
-### `Office`
-
-<img align="left" alt="word" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftword.svg" />
-<img align="left" alt="excel" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftexcel.svg" />
-<img align="left" alt="ppt" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/microsoftpowerpoint.svg" />
-
-<br />
-
-###  `Coding`
-
-<img align="left" alt="code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudiocode.svg" />
-<img align="left" alt="code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/sublimetext.svg" />
-<img align="left" alt="code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pycharm.svg" />
-<img align="left" alt="code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/vim.svg" />
-
-<br />
-<br />
-<br />
 
 <img align="left" alt="allinu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=allinu&show_icons=true&hide_border=true" />
 
@@ -53,3 +39,4 @@
 
 <img align="left" alt="allinu's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allinu&hide_border=true&layout=compact" />
 
+</details>
