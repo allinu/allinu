@@ -1,4 +1,9 @@
-# {🌼} 哈喽，大家好， 这里是[Liona](https://notion.allinu.vercel.app) 👋
+# {🌼} 哈喽，大家好， 这里是 [Liona](https://notion.allinu.vercel.app) 👋
+
+💬 名字解释：
+
+    Liona: 虽然听起来很像丽娜，但是真正的含义是 A Lion 🦁️
+    Allinu: 很喜欢网络安全技术，所以 All in 😆
 
 👨‍💻 现在干的事情:
 
@@ -6,7 +11,7 @@
     - 学习渗透测试的流程
     - 各种漏洞复现和分析
 
-💚 感兴趣的:
+❤️ 感兴趣的:
 
     - 网络安全技术
     - 想成为一名技术宅
@@ -14,7 +19,9 @@
 
 📚 博客：
 
-    [Allinu's SpaceX](https://notion.allinu.vercel.app/)
+[_Allinu's SpaceX_](https://notion.allinu.vercel.app/)
+
+    https://notion.allinu.vercel.app/
 
 🌻 技能：
 
