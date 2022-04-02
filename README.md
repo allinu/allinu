@@ -19,7 +19,7 @@
 
 📚 博客：
 
-[_Allinu's SpaceX_](https://notion.allinu.vercel.app/)
+[ 西片的笔记 ](https://notion.allinu.vercel.app/)
 
     https://notion.allinu.vercel.app/
 
