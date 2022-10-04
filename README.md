@@ -36,14 +36,20 @@
     - 100 次跌倒，101 次爬起来
     - 向前、向前、一直向前
 
-<details>
-<summary>代码统计信息</summary>
 
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=allinu&show_icons=true&count_private=true&hide_border=true&theme=vue" width="49%" height="auto" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allinu&layout=compact&hide_border=true&theme=vue" width="41%" height="auto" style="display: inline-block;" />
+</div>
 
-<img align="left" alt="allinu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=allinu&show_icons=true&hide_border=true" />
+<div align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=allinu&bg_color=ffffff&color=40b883&line=40b883&point=40b883&area=true&hide_border=true" width="90%" />
+</div>
 
-<br/>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=allinu&theme=white&hide_border=true" width="90%" />
+</div>
 
-<img align="left" alt="allinu's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allinu&hide_border=true&layout=compact" />
-
-</details>
+<div align="center">
+	<img src="https://github-profile-trophy.vercel.app/?username=allinu&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" width="90%" />
+</div>
