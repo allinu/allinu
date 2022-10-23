@@ -30,7 +30,7 @@
     - Docker： 能够写 Dockerfile 以及部署
     - Kali Linux： 可以进行信息收集、渗透测试、漏洞利用等
     - JS、PHP、Go、Java： 能够理解一些基本的逻辑和功能
-    - HTML/CSS/JS： 半吊子，能写一写网页，谈不上专业
+    - HTML/CSS/JS： 目前正在系统学习
 
 🍑 自己喜欢的话：
 
