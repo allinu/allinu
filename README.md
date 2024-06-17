@@ -1,3 +1,11 @@
+<div align="center">
+  <div align="center">
+  <img  src="https://raw.githubusercontent.com/allinu/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg"
+       alt="snake" />
+  </div>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=shamhi&label=Profile%20Visits&style=for-the-badge" />
+</div>
+
 # {🌼} 哈喽，大家好， 这里是 [Liona](https://notion.allinu.vercel.app) 👋
 
 💬 名字解释：
