@@ -3,7 +3,7 @@
   <img  src="https://raw.githubusercontent.com/allinu/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg"
        alt="snake" />
   </div>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=allinu&label=Profile%20Visits&style=for-the-badge" />
+  <img alt="gif" src="https://www.qpic.ws/images/2024/04/10/5A8HsD.gif" />
 </div>
 
 # {🌼} 哈喽，大家好， 这里是 [Liona](https://notion.allinu.vercel.app) 👋
@@ -61,4 +61,5 @@
 
 <div align="center">
 	<img src="https://github-profile-trophy.vercel.app/?username=allinu&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" width="90%" />
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=allinu&label=Profile%20Visits&style=for-the-badge" />
 </div>
